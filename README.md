@@ -20,12 +20,12 @@ To run **El Zero Template Three ** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Mahrous-Gamal/Template-Two.git
+sudo git clone https://github.com/Mahrous-Gamal/El-Zero-Template-Three.git
 ```
 Windows:
 
 ```bash
-git clone https://github.com/Mahrous-Gamal/Template-Two.git
+git clone https://github.com/Mahrous-Gamal/El-Zero-Template-Three.git
 ```
 
 ### Contact
